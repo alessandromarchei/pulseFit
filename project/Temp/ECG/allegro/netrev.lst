@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : ECG_v5.brd                                    )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sun Jan 28 14:54:35 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\TEMP\ECG\allegro'
+Design Directory:            '.'
+Old design name:             'C:/Temp/ECG/allegro/ECG_v5.brd'
+New design name:             'ECG_v6.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\TEMP\ECG\allegro C:\Temp\ECG\allegro\ECG_v5.brd C:\TEMP\ECG\allegro\ECG_v6.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/TEMP/ECG/allegro/pstchip.dat 
+   Finished reading C:/TEMP/ECG/allegro/pstchip.dat (00:00:00.03)
+Starting to read C:/TEMP/ECG/allegro/pstxprt.dat 
+   Finished reading C:/TEMP/ECG/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/TEMP/ECG/allegro/pstxnet.dat 
+   Finished reading C:/TEMP/ECG/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ 
+
+PADPATH =  C:/ORCAD_PERSONAL_LIBRARY/PADSTACKS/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jan 28 14:54:35 2024
+   DESIGN NAME : 'ECG'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:29
+elapsed time  0:00:00
+

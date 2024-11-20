@@ -1,0 +1,50 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Jan 27 12:13:16 2024
+\t (00:00:00)         Host=ALESSANDRO User=aless Pid=5692 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession aless -file ./#Taaaaae12792.tmp -pname HOLE_3MM-1 -data C:/Users/aless/AppData/Local/Temp/#Taaaaag12792.tmp
+\t (00:00:00) 
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:05) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad None 0 1
+\d (00:00:11) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged Circle
+\d (00:00:11) QtSignal GuidedMaskLayersTab PadShape activated Circle
+\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad None 1 1
+\d (00:00:15) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged Circle
+\d (00:00:15) QtSignal GuidedMaskLayersTab PadShape activated Circle
+\d (00:00:15) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad
+\d (00:00:16) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad "Circle 0.0000" 0 1
+\d (00:00:19) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 0.4000
+\d (00:00:19) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:00:19) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad "Circle 0.0000" 1 1
+\d (00:00:29) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 0.4200
+\d (00:00:29) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad
+\d (00:00:29) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad "Circle 0.4000" 0 1
+\d (00:00:35) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 0.4200
+\d (00:00:35) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:36) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:37) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:38) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad
+\d (00:00:38) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad "Circle 0.4200" 0 1
+\d (00:00:44) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 0.4300
+\d (00:00:44) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:00:44) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad "Circle 0.4200" 1 1
+\d (00:00:46) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 0.4300
+\d (00:00:46) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:51) QtSignal MainWindow Save triggered
+\d (00:00:58) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:00) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:03) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad
+\d (00:01:03) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad "Circle 0.4300" 0 1
+\d (00:01:09) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 4.3000
+\d (00:01:09) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:01:09) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad "Circle 0.4300" 1 1
+\d (00:01:14) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 4.3000
+\d (00:01:14) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:01:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:01:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:33) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:37) QtSignal MainWindow Save triggered
+\d (00:01:39) QtSignal MainWindow SaveAs triggered
+\d (00:01:42) QtFillin HOLE_3MM-1.pad
+\t (00:01:48)     Journal end - Sat Jan 27 12:15:04 2024

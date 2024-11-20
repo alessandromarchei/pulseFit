@@ -1,0 +1,66 @@
+
+********************************************************************************
+*  Performance checking for design C:/Temp/ECG/allegro/ECG_v5.brd
+********************************************************************************
+
+Ratsnest schedule check
+-------------------------------
+* OK.
+
+DRC checks
+----------------------
+* OK.
+
+Constraint region check
+-------------------------------
+* OK.
+
+Dynamic shape check
+-------------------------------
+* OK.
+
+Sector table check
+-------------------------------
+* OK.
+
+Constraint set check
+---------------------------------
+* OK.
+
+NODRC_SYM_SAME_PIN check
+---------------------------------
+* OK.
+
+Cross section check for bad dielectric constant values
+--------------------------------------------------------
+* OK.
+
+Padstack size check
+----------------------
+* OK.
+
+Conductor line check
+------------------------------
+* OK.
+
+Design Constraints Statistics
+---------------------------------
+  Physical csets       =     1
+  Spacing csets        =     1
+  Same net csets       =     1
+  Electrical csets     =     0
+  Other csets          =     0
+  Total csets        ===     3
+
+  Cset relation table  =     0
+
+  Constraint regions   =     1
+  Constraint shapes    =     1
+
+* OK.
+
+=========
+SUMMARY
+=========
+
+0 problems found.	0 maintenance problems found.

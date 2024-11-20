@@ -1,0 +1,24 @@
+\t (00:02:31) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:02:31)     Journal start - Thu Jan 18 23:11:24 2024
+\t (00:02:31)         Host=ALESSANDRO User=aless Pid=10744 CPUs=8
+\t (00:02:31) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession aless C:\TEMP\ECG\allegro\ECG_v5.brd
+\t (00:02:31) 
+\d (00:02:31) Design opened: C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/SWITCH_102AGRLC.dra
+\i (00:02:31) trapsize 952
+\i (00:02:32) generaledit 
+\i (00:02:32) zoom out 1 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom out 2.5864 2.0657
+\i (00:02:32) trapsize 1905
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 1.3293 -0.5631
+\i (00:02:33) trapsize 952
+\i (00:02:36) open 
+\i (00:02:49) fillin "C:\Temp\ECG\allegro\ECG_v5.brd"
+\i (00:02:49) cd "C:\Temp\ECG\allegro"
+\t (00:02:49) Opening existing design...
+\i (00:02:49) trapsize 1362
+\i (00:02:49) trapsize 1411
+\i (00:02:49) trapsize 1411
+\t (00:02:49)     Journal end - Thu Jan 18 23:11:42 2024

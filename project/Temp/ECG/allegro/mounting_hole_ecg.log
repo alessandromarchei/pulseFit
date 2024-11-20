@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MOUNTING_HOLE_ECG.dra                         )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Jan 16 23:22:55 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/Temp/ECG/allegro
+    Name      = mounting_hole_ecg.bsm
+    User      = aless
+    Machine   = ALESSANDRO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

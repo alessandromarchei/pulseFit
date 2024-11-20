@@ -1,0 +1,19 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "BOARD GEOMETRY/SILKSCREEN_BOTTOM"
+color -vis "COMPONENT VALUE/SILKSCREEN_BOTTOM"
+color -vis "DEVICE TYPE/SILKSCREEN_BOTTOM"
+color -vis "DRC ERROR CLASS/BOTTOM"
+color -vis "ETCH/BOTTOM"
+color -vis "PACKAGE GEOMETRY/SILKSCREEN_BOTTOM"
+color -vis "PIN/BOTTOM"
+color -vis "REF DES/SILKSCREEN_BOTTOM"
+color -vis "TOLERANCE/SILKSCREEN_BOTTOM"
+color -vis "USER PART NUMBER/SILKSCREEN_BOTTOM"
+color -vis "VIA CLASS/BOTTOM"
+color -vis "ANTI ETCH/BOTTOM"
+color -vis "BOUNDARY/BOTTOM"
+color -vis "CAVITY/BOTTOM"

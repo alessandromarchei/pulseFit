@@ -1,0 +1,336 @@
+(ExpressProject "ECG"
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\PSPICE\analog.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\PSPICE\source.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\PSPICE\sourcstm.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\PSPICE\special.olb"
+        (Type "Schematic Library"))
+      (File "C:\ORCAD_PERSONAL_LIBRARY\ORCAD_PERSONAL_LIBRARY.OLB"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\header2.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\led_smd.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\pb.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\jtag.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\header4x2.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\sw_pb.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\zip\pb_smd\orcadcapturexml\pb_smd.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\button_smd.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\micro_usb.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\rgb.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\3-644456-2.olb"
+        (Type "Schematic Library"))
+      (File "C:\ORCAD_PERSONAL_LIBRARY\ANTENNA.OLB"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\ujc-hp-3-smt-tr.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\ad8232.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\mcp73831.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\mj-3523-smt.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\pb_smd.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\pushbutton.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\rcj-042.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\rgb_led.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\switch.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\usbc.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\fc-135r_327680ka-ag0.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\tsx-3225_240000mf20x-ac0.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\sl_switch.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\cc2640.olb"
+        (Type "Schematic Library"))
+      (File "c:\orcad_personal_library\max1759.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\ecg.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\ECG_v6.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "TRUE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Allegro Netlist Input Board File" "C:\Temp\ECG\allegro\ECG_v5.brd")
+    (BOM_Scope "0")
+    (BOM_Mode "1")
+    (BOM_Report_File "C:\TEMP\ECG\ECG.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tValue")
+    (BOM_Include_File "C:\TEMP\ECG\ECG.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "TRUE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File "C:\TEMP\ECG\ECG.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\ecg.bom"
+      (Type "Report"))
+    (File ".\ecg.drc"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\ecg.dsn")
+      (Path "Design Resources" ".\ecg.dsn" "ECG")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources" ".\ecg.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 212"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 892 0 251")
+        (Scroll "-48 0")
+        (Zoom "77")
+        (Occurrence "/"))
+      (Path "C:\TEMP\ECG\ECG.DSN")
+      (Schematic "ECG")
+      (Page "SENSOR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1264 78 348")
+        (Scroll "-307 0")
+        (Zoom "54")
+        (Occurrence "/"))
+      (Path "C:\TEMP\ECG\ECG.DSN")
+      (Schematic "ECG")
+      (Page "MICRO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 970 78 348")
+        (Scroll "2227 1786")
+        (Zoom "360")
+        (Occurrence "/"))
+      (Path "C:\TEMP\ECG\ECG.DSN")
+      (Schematic "ECG")
+      (Page "POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 866 26 350")
+        (Scroll "32 1052")
+        (Zoom "216")
+        (Occurrence "/"))
+      (Path "C:\TEMP\ECG\ECG.DSN")
+      (Schematic "ECG")
+      (Page "IO")))
+  (PartMRUSelector
+    (AYZ0102AGRLC
+      (FullPartName "AYZ0102AGRLC.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\SL_SWITCH.OLB")
+      (DeviceIndex "0"))
+    (UJC-HP-3-SMT-TR
+      (FullPartName "UJC-HP-3-SMT-TR.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\UJC-HP-3-SMT-TR.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ANTENNA
+      (FullPartName "ANTENNA.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\ANTENNA.OLB")
+      (DeviceIndex "0"))
+    (Anteena_3
+      (FullPartName "Anteena_3.Normal")
+      (LibraryName "C:\TEMP\ECG\ECG.DSN")
+      (DeviceIndex "0"))
+    (3-644456-2
+      (FullPartName "3-644456-2.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\3-644456-2.OLB")
+      (DeviceIndex "0"))
+    (RCJ-042
+      (FullPartName "RCJ-042.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\RCJ-042.OLB")
+      (DeviceIndex "0"))
+    (MJ-3523-SMT
+      (FullPartName "MJ-3523-SMT.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\MJ-3523-SMT.OLB")
+      (DeviceIndex "0"))
+    (MJ-3523-SMT-TR
+      (FullPartName "MJ-3523-SMT-TR.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\MJ-3523-SMT-TR.OLB")
+      (DeviceIndex "0"))
+    ("CONN PCB 4"
+      (FullPartName "CONN PCB 4.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (SML-LX0404SIUPGUSB
+      (FullPartName "SML-LX0404SIUPGUSB.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\RGB.OLB")
+      (DeviceIndex "0"))
+    (47346-0001
+      (FullPartName "47346-0001.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\MICRO_USB.OLB")
+      (DeviceIndex "0"))
+    (1050170001
+      (FullPartName "1050170001.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\USB_MICRO.OLB")
+      (DeviceIndex "0"))
+    (5X5
+      (FullPartName "5X5.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\HEADER4X2.OLB")
+      (DeviceIndex "0"))
+    (2-1437565-7
+      (FullPartName "2-1437565-7.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\BUTTON_SMD.OLB")
+      (DeviceIndex "0"))
+    (430182043816
+      (FullPartName "430182043816.Normal")
+      (LibraryName
+         "C:\ORCAD_PERSONAL_LIBRARY\ZIP\PB_SMD\ORCADCAPTUREXML\PB_SMD.OLB")
+      (DeviceIndex "0"))
+    (1825910-7
+      (FullPartName "1825910-7.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\SW_PB.OLB")
+      (DeviceIndex "0"))
+    (FTSH-105-01-F-DV-P-TR
+      (FullPartName "FTSH-105-01-F-DV-P-TR.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\JTAG.OLB")
+      (DeviceIndex "0"))
+    (LTST-S270KGKT
+      (FullPartName "LTST-S270KGKT.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\LED_SMD.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TSX-3225_240000MF20X-AC0
+      (FullPartName "TSX-3225_240000MF20X-AC0.Normal")
+      (LibraryName
+         "C:\ORCAD_PERSONAL_LIBRARY\CRYSTAL_24MHZ\TSX-3225_240000MF20X-AC0.OLB")
+      (DeviceIndex "0"))
+    (FC-135R_327680KA-AG0
+      (FullPartName "FC-135R_327680KA-AG0.Normal")
+      (LibraryName
+         "C:\ORCAD_PERSONAL_LIBRARY\CRYSTAL_32.768\FC-135R_327680KA-AG0.OLB")
+      (DeviceIndex "0"))
+    (Port
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\NAVARETTI_LIB.OLB")
+      (DeviceIndex "0"))
+    (AD8232ACPZ-WP
+      (FullPartName "AD8232ACPZ-WP.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\AD8232.OLB")
+      (DeviceIndex "0"))
+    (1825910-6
+      (FullPartName "1825910-6.Normal")
+      (LibraryName "C:\ORCAD_PERSONAL_LIBRARY\PUSHBUTTON.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "aless")
+  (LastUsedLibraryBrowseDirectory "C:\ORCAD_PERSONAL_LIBRARY")
+  (ISPCBBASICLICENSE "false"))

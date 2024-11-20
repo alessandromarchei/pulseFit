@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HOLE_3mm.dra                                  )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Jan 22 09:57:49 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/Temp/ECG/allegro
+    Name      = hole_3mm.bsm
+    User      = aless
+    Machine   = ALESSANDRO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

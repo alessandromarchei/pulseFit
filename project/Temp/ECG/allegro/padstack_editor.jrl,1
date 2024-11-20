@@ -1,0 +1,36 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Jan 27 12:05:33 2024
+\t (00:00:00)         Host=ALESSANDRO User=aless Pid=3872 CPUs=8
+\t (00:00:00) CmdLine= padstack_editor -mpssession aless -file ./#Taaaaab12792.tmp -pname HOLE_3MM-1 -data C:/Users/aless/AppData/Local/Temp/#Taaaaad12792.tmp
+\t (00:00:00) 
+\d (00:00:03) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:03) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" "Circle 4.0000" +
+\d (00:00:03) QtSignal 1 2
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:31) QtSignal MainWindow Open triggered
+\d (00:00:34) QtFillin C:/Temp/ECG/allegro/hole120.pad
+\d (00:00:36) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:37) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:38) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:38) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:40) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:45) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:46) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:48) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:49) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:51) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:52) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:53) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:03) QtSignal MainWindow Open triggered
+\d (00:01:18) QtFillin C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/hole180.pad
+\d (00:01:21) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:24) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:01:25) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:01:27) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:01:27) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:31) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\t (00:03:08)     Journal end - Sat Jan 27 12:08:41 2024

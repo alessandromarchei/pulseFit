@@ -1,0 +1,85 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Jan 28 14:51:09 2024
+\t (00:00:01)         Host=ALESSANDRO User=aless Pid=17156 CPUs=8
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/TEMP/ECG/allegro/ECG_v5.brd
+\i (00:00:05) trapsize 2896
+\i (00:00:05) trapsize 2999
+\i (00:00:05) trapsize 2999
+\i (00:00:05) trapsize 2796
+\i (00:00:05) generaledit 
+\i (00:00:15) enved 
+\i (00:00:15) generaledit 
+\i (00:00:19) setwindow form.prfedit
+\i (00:00:19) FORM prfedit treelist  My_favorites 
+\i (00:00:23) FORM prfedit treelist  Library Paths 
+\i (00:00:37) FORM prfedit padpath  
+\i (00:00:53) FORM prfedit padpath  
+\i (00:01:27) FORM prfedit psmpath  
+\i (00:01:46) FORM prfedit padpath  
+\i (00:01:48) FORM prfedit apply  
+\i (00:01:50) FORM prfedit apply  
+\i (00:01:51) FORM prfedit done  
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 6.3760 2.3690
+\i (00:01:56) trapsize 1398
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 6.2921 2.2292
+\i (00:01:56) trapsize 699
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 6.2781 2.2012
+\i (00:01:56) trapsize 350
+\i (00:01:57) pick grid 6.6347 2.0964
+\t (00:01:57) last pick:  6.6250 2.1000
+\i (00:01:59) show element 
+\i (00:01:59) generaledit 
+\i (00:02:02) setwindow text
+\i (00:02:02) close 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out 8.1797 2.5298
+\i (00:02:03) trapsize 699
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out 8.1797 2.5019
+\i (00:02:03) trapsize 1398
+\i (00:02:03) zoom out 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom out 8.1796 2.4181
+\i (00:02:03) trapsize 2796
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 8.1797 2.3621
+\i (00:02:04) trapsize 5593
+\i (00:02:04) zoom in 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom in 5.7048 12.3173
+\i (00:02:04) trapsize 2796
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 5.7048 12.3173
+\i (00:02:05) trapsize 1398
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 5.7048 12.3173
+\i (00:02:05) trapsize 2796
+\i (00:02:17) replace padstack 
+\i (00:02:19) setwindow form.mini
+\i (00:02:19) FORM mini oldname_browse  
+\i (00:02:25) fillin "Via_0D75_0D3"
+\i (00:02:27) FORM mini newname_browse  
+\i (00:02:36) fillin "menu_cancel"
+\i (00:02:42) setwindow pcb
+\i (00:02:42) prepopup -3.9149 15.8967
+\i (00:02:43) done 
+\i (00:02:43) generaledit 
+\i (00:02:53) exit 
+\t (00:02:53)     Journal end - Sun Jan 28 14:54:01 2024

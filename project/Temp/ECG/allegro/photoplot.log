@@ -1,0 +1,481 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : ECG_v5.brd                                    )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Jan 27 12:25:04 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Temp/ECG/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.34620                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     0.50010                     0.000 NO     DARK 
+  SQUARE     1.35000                     0.000 NO     DARK 
+  SQUARE     2.65000                     0.000 NO     DARK 
+  SQUARE     3.50520                     0.000 NO     DARK 
+  RECTANGLE  0.20320     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.20320     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.27460     x 0.80470       0.000 NO     DARK 
+  RECTANGLE  0.27460     x 0.80470      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  0.70000     x 0.95000      90.000 NO     DARK 
+  RECTANGLE  0.89990     x 0.50010      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.97000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.80010      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.15000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  1.15010     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.19990     x 0.89990       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  1.35890     x 0.27940       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 2.10000      90.000 NO     DARK 
+  RECTANGLE  1.90500     x 0.55880      90.000 NO     DARK 
+  OBLONG     2.00000     x 1.00000      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Temp/ECG/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.34620                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.35000                     0.000 NO     DARK 
+  OBLONG     2.00000     x 1.00000      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < C:/Temp/ECG/allegro/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.34620                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.84990                                  DARK 
+  CIRCLE     4.30000                                  DARK 
+  SQUARE     1.35000                     0.000 NO     DARK 
+  SQUARE     2.65000                     0.000 NO     DARK 
+  SQUARE     3.50520                     0.000 NO     DARK 
+  RECTANGLE  0.20320     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.20320     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.27460     x 0.80470       0.000 NO     DARK 
+  RECTANGLE  0.27460     x 0.80470      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  0.70000     x 0.95000      90.000 NO     DARK 
+  RECTANGLE  1.19990     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.17000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  1.35000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  1.35000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.35000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.35000     x 1.59990      90.000 NO     DARK 
+  RECTANGLE  1.35890     x 0.27940       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.10010       0.000 NO     DARK 
+  RECTANGLE  1.60000     x 2.30000      90.000 NO     DARK 
+  RECTANGLE  1.90500     x 0.55880      90.000 NO     DARK 
+  OBLONG     2.20000     x 1.20000      90.000 NO     DARK 
+
+     SOLDERMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < C:/Temp/ECG/allegro/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.34620                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.84990                                  DARK 
+  CIRCLE     4.30000                                  DARK 
+  SQUARE     1.35000                     0.000 NO     DARK 
+  OBLONG     2.20000     x 1.20000      90.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < C:/Temp/ECG/allegro/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0250
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-18.9389 11.7060)
+           ... using undefined line width of 0.0250
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.0250
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     SILKSCREEN_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < C:/Temp/ECG/allegro/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0400
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Arc segment with end points of
+	(-5.92, 4.88) and (-6.39 4.89) converted to a line.
+	Its center location (-2.06 215.97) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(6.21, 3.33) and (6.97 3.33) converted to a line.
+	Its center location (6.86 -165.84) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(6.97, 3.33) and (7.73 3.33) converted to a line.
+	Its center location (6.85 -176.89) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(14.52, 3.14) and (13.92 3.14) converted to a line.
+	Its center location (13.92 168.23) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(10.90, 4.19) and (11.11 3.67) converted to a line.
+	Its center location (250.97 101.38) is too large for
+	specified integer accuracy of 2 places.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+
+     SILKSCREEN_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_TOP >
+     TO FILE < C:/Temp/ECG/allegro/PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  SQUARE     0.02540                     0.000 NO     DARK 
+  SQUARE     2.65000                     0.000 NO     DARK 
+  RECTANGLE  0.20320     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.20320     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.27460     x 0.80470       0.000 NO     DARK 
+  RECTANGLE  0.27460     x 0.80470      90.000 NO     DARK 
+  RECTANGLE  0.65000     x 0.89990       0.000 NO     DARK 
+  RECTANGLE  0.65000     x 0.89990      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 0.97000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.80010      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.15000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  1.15010     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.19990     x 0.89990       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.50800       0.000 NO     DARK 
+  RECTANGLE  1.35890     x 0.27940       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 2.10000      90.000 NO     DARK 
+  RECTANGLE  1.90500     x 0.55880      90.000 NO     DARK 
+
+     PASTEMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_BOTTOM >
+     TO FILE < C:/Temp/ECG/allegro/PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+
+     PASTEMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < C:/Temp/ECG/allegro/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+
+     OUTLINE created.
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY_TOP >
+     TO FILE < C:/Temp/ECG/allegro/ASSEMBLY_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     ASSEMBLY_TOP created.
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY_BOTTOM >
+     TO FILE < C:/Temp/ECG/allegro/ASSEMBLY_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+
+     ASSEMBLY_BOTTOM created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        SOLDERMASK_TOP created.
+        SOLDERMASK_BOTTOM created.
+        SILKSCREEN_TOP created with warnings
+        SILKSCREEN_BOTTOM created with warnings
+        PASTEMASK_TOP created.
+        PASTEMASK_BOTTOM created.
+        OUTLINE created.
+        ASSEMBLY_TOP created.
+        ASSEMBLY_BOTTOM created.
+
+ ARTWORK had warnings

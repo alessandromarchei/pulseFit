@@ -1,0 +1,119 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Jan 28 14:54:36 2024
+\t (00:00:00)         Host=ALESSANDRO User=aless Pid=2052 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession aless C:\TEMP\ECG\allegro\ECG_v6.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\w (00:00:03) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
+\d (00:00:03) Design opened: C:/TEMP/ECG/allegro/ECG_v6.brd
+\i (00:00:04) trapsize 2896
+\i (00:00:04) trapsize 2999
+\i (00:00:04) trapsize 2999
+\i (00:00:04) trapsize 2796
+\i (00:00:04) generaledit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 8.2217 -0.8748
+\i (00:00:09) trapsize 5593
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -7.4943 8.4093
+\i (00:00:11) trapsize 2796
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -12.9753 8.6890
+\i (00:00:16) trapsize 1398
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -12.9753 8.8848
+\i (00:00:16) trapsize 699
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -12.9193 8.9967
+\i (00:00:17) trapsize 350
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -12.8913 9.0107
+\i (00:00:17) trapsize 175
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -12.4753 8.6402
+\i (00:00:17) trapsize 350
+\i (00:00:18) pick grid -12.1538 8.4164
+\t (00:00:18) last pick:  -12.1500 8.4250
+\i (00:00:19) show element 
+\i (00:00:19) generaledit 
+\i (00:00:29) pick grid -11.8601 8.9687
+\t (00:00:29) last pick:  -11.8500 8.9750
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -11.8881 8.9687
+\i (00:00:33) trapsize 699
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -11.8881 8.9687
+\i (00:00:33) trapsize 1398
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -11.8881 8.9687
+\i (00:00:33) trapsize 2796
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out -10.9374 9.6399
+\i (00:00:34) trapsize 5593
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 23.0426 -7.1386
+\i (00:00:35) trapsize 2796
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 23.0426 -7.3063
+\i (00:00:35) trapsize 1398
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 24.3290 -5.0412
+\i (00:00:36) trapsize 2796
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 26.9017 3.9633
+\i (00:00:36) trapsize 1398
+\i (00:00:38) delete 
+\i (00:00:39) pick grid 25.9230 2.0058
+\t (00:00:39) last pick:  25.9250 2.0000
+\t (00:00:39) Symbol "Cn2"
+\i (00:00:39) pick grid dbl 25.9230 2.0058
+\t (00:00:39) last pick:  25.9250 2.0000
+\t (00:00:39) Dynamic Shape "Gnd, Boundary/Bottom"
+\i (00:00:39) prepopup 25.9510 2.0058
+\i (00:00:40) oops 
+\t (00:00:40) last pick:  25.9250 2.0000
+\i (00:00:41) prepopup 25.0002 1.3347
+\i (00:00:41) done 
+\i (00:00:41) generaledit 
+\i (00:00:43) place manual 
+\i (00:00:45) setwindow form.plc_manual
+\i (00:00:45) FORM plc_manual tree 'MULTISEL YES' CN2 'Components by refdes' 
+\t (00:00:45) Placing CN2 / 3-644456-2_CONN2_B2B-PH-K-S / CONN2 on Top.
+\i (00:00:45) FORM plc_manual tree  CN2 'Components by refdes' 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) pick grid 25.7552 1.4186
+\t (00:00:48) last pick:  25.7500 1.4250
+\i (00:00:49) prepopup 24.5807 1.2228
+\i (00:00:49) done 
+\i (00:00:49) generaledit 
+\i (00:00:52) show element 
+\i (00:00:53) prepopup 26.0628 1.1389
+\i (00:00:54) done 
+\i (00:00:54) generaledit 
+\i (00:00:54) pick grid 25.7832 1.1389
+\t (00:00:54) last pick:  25.7750 1.1500
+\i (00:00:55) show element 
+\i (00:00:55) generaledit 
+\i (00:00:59) setwindow text
+\i (00:00:59) close 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) exit 
+\e (00:01:00) Do you want to save the changes you made to ECG_v6.brd?
+\i (00:01:01) fillin no 
+\t (00:01:01)     Journal end - Sun Jan 28 14:55:36 2024

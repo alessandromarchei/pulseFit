@@ -1,0 +1,28 @@
+{ Using PSTWRITER 17.2.0 d001Jan-28-2024 at 14:54:33 }
+
+#1 WARNING(ORCAP-36006): Part Name "ANTENNA_1_AN043_PATCH_ANTENNA_ANTENNA" is renamed to "ANTENNA_1_AN043_PATCH_ANTENNA_A".
+#2 WARNING(ORCAP-36006): Part Name "3-644456-2_TE_3-644456-2_3-644456-2" is renamed to "3-644456-2_TE_3-644456-2_3-6444".
+#3 WARNING(ORCAP-36006): Part Name "XZM2CRKM2DGFBB45SCCB_RGB_LED_RGB" is renamed to "XZM2CRKM2DGFBB45SCCB_RGB_LED_RG".
+#4 WARNING(ORCAP-36006): Part Name "LTST-S270KGKT_LED_SMD_LTST-S270KGKT" is renamed to "LTST-S270KGKT_LED_SMD_LTST-S270".
+#5 WARNING(ORCAP-36006): Part Name "UJC-HP-3-SMT-TR_CUI_UJC-HP-3-SMT-TR_UJC-HP-3-SMT-TR" is renamed to "UJC-HP-3-SMT-TR_CUI_UJC-HP-3-SM".
+#6 WARNING(ORCAP-36042): Pin "V-BUS" is renamed to "V-BUS#A9" as visible power pin of same name already exists in Package UJC-HP-3-SMT-TR , J2: ECG, POWER (1.10, 0.80).
+#7 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A12" as visible power pin of same name already exists in Package UJC-HP-3-SMT-TR , J2: ECG, POWER (1.10, 0.80).
+#8 WARNING(ORCAP-36042): Pin "V-BUS" is renamed to "V-BUS#B9" as visible power pin of same name already exists in Package UJC-HP-3-SMT-TR , J2: ECG, POWER (1.10, 0.80).
+#9 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B12" as visible power pin of same name already exists in Package UJC-HP-3-SMT-TR , J2: ECG, POWER (1.10, 0.80).
+#10 WARNING(ORCAP-36006): Part Name "AYZ0102AGRLC_SWITCH_102AGRLC_SWITCH_102AGRLC" is renamed to "AYZ0102AGRLC_SWITCH_102AGRLC_SW".
+#11 WARNING(ORCAP-36006): Part Name "CC2640R2LRHBR_CC2640_CC2640R2LRHBR" is renamed to "CC2640R2LRHBR_CC2640_CC2640R2LR".
+#12 WARNING(ORCAP-36006): Part Name "MCP73831T-2ACIOT_0_MCP73831_MCP73831" is renamed to "MCP73831T-2ACIOT_0_MCP73831_MCP".
+#13 WARNING(ORCAP-36006): Part Name "TSX-3225_0_XTAL_24MHZ_TSX-3225_240000MF20X-AC0" is renamed to "TSX-3225_0_XTAL_24MHZ_TSX-3225_".
+#14 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package TSX-3225_0 , Y1: ECG, MICRO (2.00, 0.70).
+#15 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package TSX-3225_0 , Y1: ECG, MICRO (2.00, 0.70).
+#16 WARNING(ORCAP-36006): Part Name "FC-135R_0_XTAL_32_768KHZ_FC-135R_327680KA-AG0" is renamed to "FC-135R_0_XTAL_32_768KHZ_FC-135".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\TEMP\ECG\allegro/pstchip.dat
+
+Loading... C:\TEMP\ECG\allegro/pstchip.dat
+
+Loading... C:\TEMP\ECG\allegro/pstxprt.dat
+
+Loading... C:\TEMP\ECG\allegro/pstxnet.dat
+packaging the design view...
