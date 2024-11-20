@@ -181,5 +181,5 @@ In this project, the main files are the following:
 - [Alessandro Marchei](https://github.com/alessandromarchei)
 - Silvia Capozzoli
 
-For full documentation and design files, please refer to the `docs` folder.
+For full documentation and design files, please refer to the `docs` folder, which contains the 'pulsefit.pdf' for the entire report documenting the purpose and details of the entire project.
 
